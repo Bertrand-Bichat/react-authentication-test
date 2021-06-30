@@ -42,6 +42,10 @@ gem 'autoprefixer-rails', '10.2.5'
 gem 'font-awesome-sass'
 gem 'simple_form'
 
+# react-api-need
+gem 'bcrypt'
+gem 'rack-cors'
+
 group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
